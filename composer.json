@@ -1,0 +1,21 @@
+{
+    "name": "imateapot/json",
+    "description": "PSR JSON Helpers",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Imateapot\\JSON\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Federico Fazio",
+            "email": "federicofz@gmail.com"
+        }
+    ],
+    "require": {
+        "psr/http-message": "^1.0",
+        "psr/http-server-middleware": "^1.0",
+        "nyholm/psr7": "^1.5"
+    }
+}
