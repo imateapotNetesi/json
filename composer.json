@@ -16,6 +16,7 @@
     "require": {
         "psr/http-message": "^1.0",
         "psr/http-server-middleware": "^1.0",
-        "nyholm/psr7": "^1.5"
+        "nyholm/psr7": "^1.5",
+        "firebase/php-jwt": "^6.3"
     }
 }
